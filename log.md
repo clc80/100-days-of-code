@@ -1,30 +1,73 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 03, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Starting off with #freecodecamp Basic Algorithm Scripting.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Not sure where to start so I figured that freecodecamp was a good place to start
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.freecodecamp.com/clc80
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 04, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on CFI Webpage
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** If I'm going to work on a project why not my CFI website
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** https://cficontreras.com
 
+### Day 3: January 05, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: I really need to start using Git and GitHub but I don't know how. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Not sure if this counts but today I practiced and practiced with Git and Github
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** http://github.com/clc80
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 4: January 06, 2017
+
+**Today's Progress**: Let's do some algorithms.
+
+**Thoughts:** Thehe seek and destroy algorithm really kicked my butt. I still don't completely understand it.
+
+**Link to work:** https://www.freecodecamp.com/clc80
+
+### Day 5: January 07, 2017
+
+**Today's Progress**: Added the Intro Flight page to the website.
+
+**Thoughts:** Still working on my website. Take a look, it's not done but almost.  
+
+**Link to work:** http://cficontreras.com/ 
+
+### Day 6: January 08, 2017
+
+**Today's Progress**: Added the flight training page.
+
+**Thoughts:** Website is coming together, 2 more pages to go.
+
+**Link to work:** http://cficontreras.com
+
+### Day 7: January 09, 2017
+
+**Today's Progress**: Started the ottergram html and css pages
+
+**Thoughts:** Stuck at jury duty, but I get to code while waiting. #lovecoding #cantstopwontstop.
+
+**Link to work:** http://thecoderpilot.com/ottergram/index.html
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Skillcrush wordpress blog
+
+**Thoughts:** Started coding a blog, not sure if I want to keep it. #100daysofcode
+
+**Link to work:** Not online yet
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Did the contact page, and added the form. Learned how to redirect a page
+
+**Thoughts:** CFIContreras.com  is almost done, last thing to do is the pictures page. I have taken too many pictures 
+
+**Link to work:** http://cficontreras.com
