@@ -90,8 +90,8 @@
 
 ### Day 12: January 15, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the ottergram project, tried to add flexbox
 
-**Thoughts:** 
+**Thoughts:** That didn't go so well, I need to try again tomorrow. It's not making sense at the moment, I think I need to stop and try again later
 
-**Link to work:** 
+**Link to work:** not online I will add to GitHub and link to it tomorrow. 
