@@ -71,3 +71,27 @@
 **Thoughts:** CFIContreras.com  is almost done, last thing to do is the pictures page. I have taken too many pictures 
 
 **Link to work:** http://cficontreras.com
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Had to update the SOPA website to include 2017 in all the pages and add the new newsletter
+
+**Thoughts:** There's alot of information in this website. Should I update it? 
+
+**Link to work:** http://salinaspilots.com
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: Updated the 99s website with pictures from the southwest section meeting
+
+**Thoughts:** Still amazing to see all the changes and updates to this site
+
+**Link to work:** http://sws99s.org
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
