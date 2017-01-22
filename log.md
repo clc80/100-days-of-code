@@ -111,3 +111,11 @@
 **Thoughts:** That didn't go so well, I need to try again tomorrow. It's not making sense at the moment, I think I need to stop and try again later
 
 **Link to work:** not online I will add to GitHub and link to it tomorrow.
+
+### Day 15: January 21, 2017
+
+**Today's Progress**: Worked on the ottergram project, Got it to be resizable
+
+**Thoughts:** Looking better and more stylish
+
+**Link to work:** http://thecoderpilot.com/ottergram/ and it's also on Github
