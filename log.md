@@ -88,10 +88,26 @@
 
 **Link to work:** http://sws99s.org
 
-### Day 12: January 15, 2017
+### Day 12: January 17, 2017
+
+**Today's Progress**: Free Code Camp Intermediate Front End Development Projects
+
+**Thoughts:** Started on the random quote generator from @freeCodeCamp stuck on the API but #wontpeak at the answer yet.
+
+**Link to work:** Free Code Camp and http://codepen.io/coderpilot/full/wgoYpp/
+
+### Day 13: January 18, 2017
+
+**Today's Progress**: Free Code Camp Intermediate Front End Development Projects
+
+**Thoughts:** IdidIt I figured out how to add the API to the site. 
+
+**Link to work:** Free Code Camp and http://codepen.io/coderpilot/full/wgoYpp/
+
+### Day 14: January 20, 2017
 
 **Today's Progress**: Worked on the ottergram project, tried to add flexbox
 
 **Thoughts:** That didn't go so well, I need to try again tomorrow. It's not making sense at the moment, I think I need to stop and try again later
 
-**Link to work:** not online I will add to GitHub and link to it tomorrow. 
+**Link to work:** not online I will add to GitHub and link to it tomorrow.
