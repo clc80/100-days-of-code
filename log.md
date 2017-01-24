@@ -119,3 +119,11 @@
 **Thoughts:** Looking better and more stylish
 
 **Link to work:** http://thecoderpilot.com/ottergram/ and it's also on Github
+
+### Day 16: January 22, 2017
+
+**Today's Progress**: Worked on the ottergram project, Added Media Queries
+
+**Thoughts:** Looking better and more stylish
+
+**Link to work:** http://thecoderpilot.com/ottergram/ and it's also on Github
