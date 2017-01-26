@@ -127,3 +127,11 @@
 **Thoughts:** Looking better and more stylish
 
 **Link to work:** http://thecoderpilot.com/ottergram/ and it's also on Github
+
+### Day 17 & 18: January 24 & 25, 2017
+
+**Today's Progress**: Tried the weather challenge on FreeCode Camp and realized that I just don't get it. I found a video on Lynda.com, hopefully it helps. https://www.lynda.com/jQuery-tutorials/jQuery-Data-AJAX/150163-2.html#tab and on youtube https://youtu.be/rJesac0_Ftw
+
+**Thoughts:** The Algorithms were a bit easier but not by much. 
+
+**Link to work:** https://www.freecodecamp.com/clc80
