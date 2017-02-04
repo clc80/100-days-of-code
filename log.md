@@ -135,3 +135,11 @@
 **Thoughts:** The Algorithms were a bit easier but not by much. 
 
 **Link to work:** https://www.freecodecamp.com/clc80
+
+### Day 19: February 3, 2017
+
+**Today's Progress**: After going to the hospital and haing surgery I'm back to continuing my progress. 
+
+**Thoughts:** Feels good to get back into it. 
+
+**Link to work:** http://thecoderpilot.com/ottergram/
