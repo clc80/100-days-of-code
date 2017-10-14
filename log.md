@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 29 October 13, 17
+
+**Today's Progress**: My first day of coding my app, I say first because I had to take a break. Help! For some reason when one letter is selected that is in the word it will show all the letters in the word
+
+**Thoughts:** I was making decent progress. I was able to add a file with a list of words but they I couldn't figure out how to show that one word so I said I'll work with just one word for now. I was able to hide the word and asterisks instead of letters. I was able to get the user to input a letter and to check to see if the letter is a part of the word. If the letter is not it will list the letters and eventually it will deduct one guess. However I ran into a problem where if the user enters a letter that is in the word, instead of it only showing the one letter it will show the whole word. I couldn't figure out what I did wrong so that was where I had to stop for the day. 
+
+### Day 28 October 12, 17
+
+**Today's Progress**: Not much computer coding but spent 3+ hrs working on how to make my hangman app. A lot of arrows were drawn.
+
+**Thoughts:** I have a starting plan and I know how it's going to work. I started with a bit of the logic. It really helped to bread down the whole game into small chunks and then I can work on those small chunks indiviudally.  
+
+### Day 27 October 11, 17
+
+**Today's Progress**: Back to swift. Working on a hangman game. Not a tutorial, but trying to figure it out based on what I have learned.
+
+**Thoughts:** I spent alot of time feeling overwhelmed and not knowing how to start. I understand what I want to do and how hangman works but I have no idea how it's going to work. I had to reread a few of the previous chapters to even think about starting. 
+
+### Day 26 October 10, 17
+
+**Today's Progress**: CSS layout for code camp assignment. I forgot how time absorbing CSS can be. I spent 20 minutes in the Nav and footer
+
+**Thoughts:** Finished up the website. The last bit of it was making sure that there was a standard throughout the 4 pages and that everything looked the way I wanted it to. 
+
+### Day 25: October 9, 2017
+
+**Today's Progress**: Sent the past two days packing and moving. Today I got back into coding. Tried to do some HTML and CSS, boy was I rusty.
+
+**Thoughts:** It's a simple 4 page website for a robot store. The elements of the HTML page were given to me, I had to do the styling. 
+
+### Day 24: October 6, 2017
+
+**Today's Progress**: Unsuccessfully wrapping my head around  GCD functions, in particular  async() I'm not even sure I know what it does.
+
+**Thoughts:** I finished the project from Hacing with Swift but I think I get it, I'm just not sure. It's about having the device do the work on the back end. Somehow. 
+
 ### Day 23: October 4, 2017
 
 **Today's Progress**: At this stage it's easier to restart than to try and debug my app I can debug later when I have an idea of what i'm doing
